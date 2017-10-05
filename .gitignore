@@ -1,3 +1,8 @@
-_site/
+
+# I want to build locally, and just update remote _site, not build on github
+# Then I can use any theme
+#
+# _site/
+
 .sass-cache/
 .jekyll-metadata
